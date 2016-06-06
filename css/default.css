@@ -121,3 +121,10 @@ body{
     padding: 5px;
     color: black;
   }
+
+body{
+  background-image: url(../img/image.png),url(../img/tai.png);
+    backgriybd-repeat: no-repeat, no-repoat;
+    background-color: lightgrey;
+    margin: 5px;
+}
